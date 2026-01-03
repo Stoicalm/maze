@@ -27,3 +27,5 @@ pip install -r requirements.txt
 1. **生成迷宫矩阵**：
    ```bash
    python maze_process.py
+2. **启动GUI界面**：
+   python q-learning.py
