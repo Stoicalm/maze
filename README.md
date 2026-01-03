@@ -22,7 +22,8 @@ maze-project/
 确保已安装Python 3.8或更高版本，然后安装依赖：
 ```bash
 pip install -r requirements.txt
-```bash
-python maze_process.py
-```bash
-python q-learning.py
+
+#### 方式一：完整流程（推荐）
+1. **生成迷宫矩阵**：
+   ```bash
+   python maze_process.py
