@@ -23,8 +23,4 @@ maze-project/
 ```bash
 pip install -r requirements.txt
 
-### 2. 运行
 python maze_process.py
-
-python q-learning.py
-
